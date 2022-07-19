@@ -5,3 +5,4 @@ main framework [==] 2/2
 ! fix #1: reason and methods
 
 ! bug #2: something wrong
+! fix #2: reason and methods
